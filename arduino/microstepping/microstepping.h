@@ -1,4 +1,4 @@
-typedef struct phase_step {
+typedef struct {
   unsigned char power;
   bool reverse;
   double sin;
